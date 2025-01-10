@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #121212;
 }
 
 header {
-    background: rgb(18, 18, 18);
+    background: #000000;
     color: #ffcc00;
     padding: 20px 0;
     text-align: center;
@@ -33,7 +33,7 @@ main {
 
 section {
     margin-bottom: 20px;
-    background: white;
+    background: #000000;
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -42,13 +42,13 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #005b96;
-    color: white;
+    background: #ffcc00;
+    color: #000000;
     position: relative;
     bottom: 0;
     width: 100%;
 }
-
+/* 
 form {
     display: flex;
     flex-direction: column;
@@ -76,4 +76,4 @@ form button {
 
 form button:hover {
     background: #004080;
-}
+} */
