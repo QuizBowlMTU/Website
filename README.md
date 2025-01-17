@@ -5,7 +5,6 @@
     <title>Quiz Bowl</title>
 </head>
 <body>
-    <p> Hello This is what it looks like</p>
-    <p> I did it in like 30 secs can be improved</p>
+    <p>Hello, this is the HTML code for the MTU Quiz Bowl Club</p>
 </body>
 </html>
